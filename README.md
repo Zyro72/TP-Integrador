@@ -8,5 +8,5 @@ los botones se linkearon a paginas web
 agregado el favicon
 subido githubpage
 nav funcional en ambas paginas
-no logro configurar el formulario para que me envie los datos al mail
+pagina de contacto funcional y sincronizada con formspree
 faltaria unificar formatos de las paginas

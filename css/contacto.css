@@ -3,7 +3,24 @@
     border-box;
 }
 
+:root {
+  --fondo: #430f58;
+  --contenedor: #8c1d5f;
+  --items: #c6445a;
+  --boton: #ed7b51;
+  --info: #feb851;
+  --infoH: #feb951d7;
+  --desc: #f9f871;
+  --fullwidth: 100%;
+}
+
+.first-color {
+  background: #d5def5;
+}
+
+
 body {
+  background-color: var(--fondo);
   border: 2px solid black;
   padding: 2%;
 }
@@ -11,6 +28,7 @@ body {
 header {}
 
 main {
+  background-color: var(--contenedor);
   border: 2px solid blueviolet;
   padding: 2%;
 }

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bustos",
+        "descripcion": "Bustos personalizados a elección",
+        "precio": 5000,
+        "img": "https://i.redd.it/loq0gbyx5s571.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Jarras",
+        "descripcion": "Jarras /Chops distintos modelos y colores",
+        "precio": 3500,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJg8tX3ZYclEm-iX2LI1Tv4exYz2eOTAudw&s"
+    },
+    {
+        "id": 3,
+        "nombre": "Personalizados",
+        "descripcion": "Pedidos personalizados ",
+        "precio": 10000,
+        "img": "https://d22fxaf9t8d39k.cloudfront.net/fd4297ad968645a3d560d472ef33841af3f6bde22135cd9d8d3e91118d9c6e6d322025.jpg"
+    }
+]
